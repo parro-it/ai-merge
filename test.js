@@ -1,6 +1,6 @@
 import test from "tape-async";
-import $package_var from ".";
+import aiMerge from ".";
 
 test("exports a function", async t => {
-  t.is(typeof $package_var, "function");
+  t.is(typeof aiMerge, "function");
 });
