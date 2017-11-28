@@ -1,6 +1,6 @@
 {
   "name": "ai-merge",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Parallel merge of multiple async iterable.",
   "repository": "parro-it/ai-merge",
   "author": "Andrea Parodi <andrea@parro.it>",
